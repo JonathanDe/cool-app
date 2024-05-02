@@ -1,0 +1,28 @@
+button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+}
+
+.cool-blue-btn {
+    background-color: #007bff;
+}
+
+.cool-blue-btn:hover {
+    background-color: #0056b3;
+}
+
+.cool-green-btn {
+    background-color: #28a745;
+}
+
+.cool-green-btn:hover {
+    background-color: #218838;
+}
+
